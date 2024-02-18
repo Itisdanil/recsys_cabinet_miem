@@ -1,2 +1,2 @@
-# hh_recsys
-HeadHunter RecSys Competition
+# RecSys Cabinet MIEM
+Diploma
